@@ -10,8 +10,6 @@
 7. Minimum Variance Portfolio
 8. Tangent Portfolio
 9. Utility Optimization
-10. Company Data
-11. Code
 
 ---
 
@@ -21,6 +19,7 @@ This report provides an analysis of financial data for the Dow Jones Industrial 
 ---
 
 ## 2. Dataset Descriptions
+Data for this report is taken from a excel spreadsheet, obtained from WRDS
 
 ### **Sheet: sp500[^1]**
 1. **Calendar Date**: The date of the observation in the dataset.
