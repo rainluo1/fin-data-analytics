@@ -4,7 +4,7 @@ Welcome to my project on portfolio yield analysis! This page provides an overvie
 
 ## Overview
 
-- **Leverage and Arbitrage**: Investigating the effects of borrowing to invest and taking advantage of market inefficiencies. [TODO: add remaining into Github]
+- **Leverage and Arbitrage**: Investigating the effects of borrowing to invest and taking advantage of index rebalance induced market movements. [TODO: add remaining into Github]
 - **Modern Portfolio Theory (MPT)**: Applying MPT principles to optimize returns for a given level of risk.
 
 ## Data-Driven Analysis
