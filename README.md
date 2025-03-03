@@ -22,14 +22,6 @@ Welcome to my project on portfolio yield analysis! This page provides an overvie
 ## Code and Notebooks
 
 You can explore the source code and Jupyter notebooks here:
-- [Data Collection and Processing](./DataCollection.ipynb)  
-- [Portfolio Analysis](./PortfolioAnalysis.ipynb)  
-- [Results and Visualization](./Results.ipynb)
+- [Data Collection and Processing](./Mean Variance Analytics.ipynb)  
+- [Portfolio Analysis Results and Visualization](./MeanVar Code.ipynb)  
 
-*(Adjust the above links to point to your actual files.)*
-
-## How to Run
-
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/your-username/your-repo.git
