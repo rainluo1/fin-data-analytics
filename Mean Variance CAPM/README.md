@@ -1,4 +1,6 @@
 # Mean Variance Analytics Portfolio
+
+#### Author: Rain Luo
 ---
 ## Table of Contents
 1. Introduction
