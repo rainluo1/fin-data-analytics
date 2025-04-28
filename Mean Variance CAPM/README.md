@@ -16,9 +16,16 @@
 ---
 
 ## 1. Introduction & Motivation
-This report provides an analysis of financial data for the Dow Jones Industrial Average. The data was obtained from WRDS.
+This report provides an analysis of financial data for the **Dow Jones Industrial Average**.  
+The data were obtained from **WRDS/FactSet**.
 
-The goal in this project is to mimic the ideas from Mean Variance Model from Modern Portfolio Theory to bulid the [Efficent Frontier](https://www.investopedia.com/terms/e/efficientfrontier.asp#:~:text=The%20efficient%20frontier%20is%20the,given%20level%20of%20expected%20return.). By forming the long-short portfolio, we are able to construct a minimum volatility portfolio.    
+Last year, in my finance class, I was introduced to the concept of a *mean-variance investor*.  
+This semester, I discovered that the **University of Waterloo** has access to several data vendors. Here, I apply the concepts I learned in class while leveraging my computer-science skills.
+
+The goal of this project is to replicate the ideas from the mean-variance model in **Modern Portfolio Theory** and build the [efficient frontier](https://www.investopedia.com/terms/e/efficientfrontier.asp#:~:text=The%20efficient%20frontier%20is%20the,given%20level%20of%20expected%20return.).  
+By forming long-short portfolios, we can construct a **minimum-volatility portfolio**.  
+Starting from that minimum-volatility portfolio, I aim to further optimize the weights to obtain the [tangency portfolio](https://www.financestrategists.com/wealth-management/investment-management/tangency-portfolio/).
+
 
 
 ---
