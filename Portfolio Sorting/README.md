@@ -16,6 +16,8 @@ The data were obtained from **WRDS/FactSet**.
 
 In my most recent semester, in my finance class, I was introduced to a finance paper that discusses [return anomalies](https://academic.oup.com/rfs/article-abstract/33/5/2019/5236964?login=false). The authors points out 453 different factors that disproportionately affects return. Many of the factors fails the T-stat test, however there are 18% of the factors that is statistically significant at the 95% significance level. I chose 6 factors from the paper and tried to explore them to form hedge portfolio. 
 
+As well, I came across actively-managed ETFs like BlackRock's USMV, which trackes stocks listed on the US market with minimum volatility. I wanted to see if I create some sort of factors based ETF, what would the turnover rate, return, alpha, Sharpe ratio be. 
+
 # 2. Portfolio Sorting in a nut shell
 Portfolio sorting is a **non-parametric technique** that groups securities into portfolios based on one (or more) firm characteristics—size, value, momentum, beta, etc.—to study how those characteristics relate to future returns. It is the workhorse of modern empirical asset-pricing papers because it is intuitive, transparent, and easy to replicate. 
 
@@ -26,7 +28,7 @@ Portfolio sorting is a **non-parametric technique** that groups securities into 
 | Purpose                              | What the sort reveals                               |
 | ------------------------------------ | --------------------------------------------------- |
 | **Return‐predictive power**          | Whether a characteristic forecasts returns (e.g., size, book-to-market). |
-| **Factor construction**              | Turning the high-minus-low (HML) spread into a tradable risk factor. |
+| **Factor construction**              | Turning different spreads into a tradable risk factor. |
 | **Robustness & visualization**       | Monotonic patterns across deciles are easy to see and explain. |
 | **Model testing**                    | Compare CAPM or multi-factor alphas on sorted portfolios. |
 
