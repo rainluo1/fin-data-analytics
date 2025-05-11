@@ -44,8 +44,7 @@ d. USD/CAD exchange rate.
 Graph c. and d. in thoery should move together with `perfect correlation` as the secruity price ratio from NASDAQ/TSX should repersent the exchange rate. 
 
 By doing the Canadian Shopify price - implied close price ( US price * USD/CAD rate). We are able to spot arbitrage opportunities.
-![2992bbcc-3791-43f7-8230-4876e9e2a62e.png](attachment:2992bbcc-3791-43f7-8230-4876e9e2a62e.png)
-
+![alt text](2992bbcc-3791-43f7-8230-4876e9e2a62e.png)
 #### 3.b Interesting Event Captured 
 We see that in graph c. there is a huge spike between the USD/CAD price. This occured in March 18, 2022. The trigger for this isolated uptick was the quarterly rebalancing of the Nasdaq-100 Index, which is tracked by the Invesco QQQ Trust (QQQ). Under Nasdaq rules, index share adjustments are announced after the close on the second Friday of March and become effective after the close of trading on the third Friday in March. For March 2022, that date was March 18, meaning ETF managers executed large purchase orders for Shopify shares on that day to align QQQ’s portfolio with the new index composition. [Read more about this event here](https://markets.businessinsider.com/news/stocks/nyse-shopify-stock-price-spike-probe-caused-18m-losses-report-2022-3) and [here](https://seekingalpha.com/news/3818190-shopify-100share-price-spike-earlier-this-month-said-to-be-probed-by-nyse?utm_medium=referral&utm_source=chatgpt.com).
 
